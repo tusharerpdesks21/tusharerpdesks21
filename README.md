@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @tusharerpdesks21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tushar
+- 👀 I’m interested in Gedgets
+- 🌱 I’m currently learning New Technologies
+- 💞️ I’m looking to collaborate on erpnext
+- 📫 How to reach me 7580862955
+
 
 <!---
 tusharerpdesks21/tusharerpdesks21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
